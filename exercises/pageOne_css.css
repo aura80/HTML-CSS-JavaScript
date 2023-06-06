@@ -1,0 +1,27 @@
+
+select{
+    color: green;
+    background-color: LightGreen;
+}
+
+table{
+    color: blue;
+    background-color: LightBlue;
+}
+
+form{
+    background-color: Pink;
+}
+
+header{
+    background-color: lightyellow;
+}
+
+p{
+    text-align: center;
+    border: dotted 1px green;
+}
+
+textarea{
+    background-image: url('https://t4.ftcdn.net/jpg/04/17/31/57/360_F_417315777_w5lJJaEbgYhD5ROmKpIyzAc29r7trxLe.jpg');
+}
