@@ -25,3 +25,15 @@ p{
 textarea{
     background-image: url('https://t4.ftcdn.net/jpg/04/17/31/57/360_F_417315777_w5lJJaEbgYhD5ROmKpIyzAc29r7trxLe.jpg');
 }
+
+ul{
+    list-style: square;
+    background-color: #91EDED;
+    font-size: 20px;
+}
+
+ol{
+    background-color: #91DEED;
+    font-size: 18px;
+    font-family: sans-serif;
+}
