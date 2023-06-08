@@ -30,10 +30,37 @@ ul{
     list-style: square;
     background-color: #91EDED;
     font-size: 20px;
+    font-style: italic;
+    text-align: center;
 }
 
 ol{
-    background-color: #91DEED;
+    background-color: #00FA9A;
     font-size: 18px;
     font-family: sans-serif;
+    color: #3F9B0B;
+    border: 30px #BAB86C;
+
 }
+
+.model-list{
+    width: 200px;
+    height: 100px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    border: 4px solid #4CC417;
+}
+
+img{
+    float: left;
+}
+
+model-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
